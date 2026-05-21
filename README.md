@@ -13,6 +13,42 @@ It allows users to process images, audio files, and videos through a simple GUI.
 - Video frame processing: apply selected image operations frame by frame
 - Original and processed preview with save output option
 
+## Project Screenshots
+
+The following screenshots show the main features of the MultiMedia Processing Studio application.
+
+### Image Processing
+
+#### Brightness Adjustment
+![Brightness Adjustment](screenshots/image-brightness.png)
+
+#### Contrast Adjustment
+![Contrast Adjustment](screenshots/image-contrast.png)
+
+#### Histogram Equalization
+![Histogram Equalization](screenshots/image-histogram-equalization.png)
+
+#### Sobel Edge Detection
+![Sobel Edge Detection](screenshots/image-sobel-edge-detection.png)
+
+### Color Transformations
+
+#### Grayscale
+![Grayscale](screenshots/color-grayscale.png)
+
+#### Negative
+![Negative](screenshots/color-negative.png)
+
+#### Posterization
+![Posterization](screenshots/color-posterization.png)
+
+### Geometric Transformations
+
+#### Rotate 180
+![Rotate 180](screenshots/geometric-rotate-180.png)
+
+#### Horizontal Reflection
+![Horizontal Reflection](screenshots/horizontal-reflection.png)
 ## Technologies Used
 
 - Python
