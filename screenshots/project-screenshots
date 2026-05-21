@@ -1,0 +1,41 @@
+## Screenshots
+
+All project screenshots are available in the `screenshots` folder.
+
+The screenshots show examples of:
+- Image Processing
+- Color Transformations
+- Geometric Transformations
+- Audio Processing
+- Video Frame Processing
+
+#### Brightness Adjustment
+![Brightness Adjustment](HI/image-brightness.png)
+
+#### Contrast Adjustment
+![Contrast Adjustment](HI/image-contrast.png)
+
+#### Histogram Equalization
+![Histogram Equalization](HI/image-histogram-equalization.png)
+
+#### Sobel Edge Detection
+![Sobel Edge Detection](HI/image-sobel-edge-detection.png)
+
+### Color Transformations
+
+#### Grayscale
+![Grayscale](HI/color-grayscale.png)
+
+#### Negative
+![Negative](HI/color-negative.png)
+
+#### Posterization
+![Posterization](HI/color-posterization.png)
+
+### Geometric Transformations
+
+#### Rotate 180
+![Rotate 180](HI/geometric-rotate-180.png)
+
+#### Horizontal Reflection
+![Horizontal Reflection](HI/horizontal-reflection.png)
